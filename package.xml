@@ -4,7 +4,7 @@
   <version>1.0.0</version>
   <description>The steering_functions package</description>
 
-  <maintainer email="holger.banzhaf@de.bosch.com">Holger Banzhaf</maintainer>
+  <maintainer email="marc@hanheide.net">Marc Hanheide</maintainer>
   <author email="holger.banzhaf@de.bosch.com">Holger Banzhaf</author>
 
   <license>Apache-2.0</license>
