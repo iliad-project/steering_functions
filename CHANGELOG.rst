@@ -2,8 +2,8 @@
 Changelog for package steering_functions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.1 (2018-03-22)
+------------------
 * changed maintainer for iliad branch
 * Fixed formating in README
   Signed-off-by: Holger Banzhaf <holger.banzhaf@de.bosch.com>
