@@ -2,6 +2,9 @@
 Changelog for package steering_functions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.0.2 (2018-04-27)
 ------------------
 * added missing install targets
