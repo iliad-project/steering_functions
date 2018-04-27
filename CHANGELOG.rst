@@ -2,6 +2,12 @@
 Changelog for package steering_functions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'iliad' of https://github.com/iliad-project/steering_functions into iliad
+* fixed for hpp files
+* Contributors: Marc Hanheide
+
 1.0.3 (2018-04-27)
 ------------------
 
