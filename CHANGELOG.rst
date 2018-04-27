@@ -2,6 +2,11 @@
 Changelog for package steering_functions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* install everything in headers
+* Contributors: Marc Hanheide
+
 1.0.4 (2018-04-27)
 ------------------
 * Merge branch 'iliad' of https://github.com/iliad-project/steering_functions into iliad
