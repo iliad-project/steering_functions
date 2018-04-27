@@ -2,6 +2,18 @@
 Changelog for package steering_functions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.3 (2018-04-27)
+------------------
+
+1.0.2 (2018-04-27)
+------------------
+* added missing install targets
+* Merge branch 'master' of https://github.com/hbanzhaf/steering_functions into iliad
+* Optimized integration of path
+  Signed-off-by: Holger Banzhaf <holger.banzhaf@de.bosch.com>
+* Disabled timing test
+* Contributors: Holger Banzhaf, Marc Hanheide
+
 1.0.1 (2018-03-22)
 ------------------
 * changed maintainer for iliad branch
