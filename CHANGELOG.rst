@@ -2,8 +2,8 @@
 Changelog for package steering_functions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.5 (2018-04-27)
+------------------
 * install everything in headers
 * Contributors: Marc Hanheide
 
