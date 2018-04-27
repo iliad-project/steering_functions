@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>steering_functions</name>
-  <version>1.0.2</version>
+  <version>1.0.3</version>
   <description>The steering_functions package</description>
 
   <maintainer email="marc@hanheide.net">Marc Hanheide</maintainer>
